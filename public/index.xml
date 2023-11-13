@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Markham Stamps</title>
+    <link>https://www.markhamstamps.com/</link>
+    <description>Recent content in Home on Markham Stamps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <atom:link href="https://www.markhamstamps.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
