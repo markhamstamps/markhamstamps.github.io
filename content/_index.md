@@ -10,7 +10,7 @@ header_use_video: false
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Markham Stamps"
-header_subheadline: "Specializing in <b>Worldwide & Estate Stamp Collections</b>"
+header_subheadline: "Specializing in <b>Worldwide & Estate Stamp Collections</b><br><a href=\"mailto:markham.stamps@gmail.com\">markham.stamps@gmail.com</a><br><a href=\"tel:+16478640358\">+1.647.864.0358</a>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
